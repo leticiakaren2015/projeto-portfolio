@@ -90,6 +90,7 @@ section#ficha h1 {
   color: var(--destaque);
   margin: 15px 0px;
   font-size: 1.5em;
+  font-weight: bold;
   text-align: left;
 }
 
