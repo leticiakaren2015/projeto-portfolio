@@ -1,2 +1,2 @@
-# projeto porfolio
+# projeto portfolio
 Projeto final de HTML e CSS
