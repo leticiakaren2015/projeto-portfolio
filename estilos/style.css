@@ -23,6 +23,15 @@
   --fundo-card: #ffffff;
 }
 
+body.escuro {
+  --fundo-principal: #000000;
+  --texto: #ffffff;
+  --texto-inverso: #0f0f0f;
+  --destaque:#1c67b1;
+  --destaque-inverso:#95aecd;
+  --fundo-card: #151414ed;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5em;
